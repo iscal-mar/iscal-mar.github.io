@@ -1,0 +1,267 @@
+@font-face {
+    font-family: 'Vollkorn';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/vollkorn/v21/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/vollkorn/v21/0yb9GDoxxrvAnPhYGxkpaE0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/vollkorn/v21/0yb9GDoxxrvAnPhYGxkpaE0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Lobster Two';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/lobstertwo/v18/BngOUXZGTXPUvIoyV6yN5-fI1qeh5A.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Lobster Two';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/lobstertwo/v18/BngMUXZGTXPUvIoyV6yN5-fN5qU.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Lobster Two';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/lobstertwo/v18/BngRUXZGTXPUvIoyV6yN5-92w7CGwR0.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Noto Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr5TRA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVZNyB.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Red Hat Text';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/redhattext/v13/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXgcq1B.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/redhattext/v13/RrQXbohi_ic6B3yVSzGBrMxQaKct.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  @font-face {
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/redhattext/v13/RrQXbohi_ic6B3yVSzGBrMxQaKct.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  
+  * {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  header h1 {
+    font-size: 2.2em;
+    margin: 20px 10px;
+  }
+  
+  nav {
+    margin-top: 5px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    font-style: italic;
+    color: #1C45EB;
+  }
+  
+  nav li {
+    display: inline;
+    padding: 0 1em;
+  }
+  
+  .colors, .fonts, .styles {
+    margin: 25px 10px;
+    border: 1px solid gray;
+    position: float;
+  }
+  
+  .colors h2, .fonts h2, .styles > h2 {
+    margin: 10px 5px;
+  }
+  
+  .colorrow1, .colorrow2 {
+    display: block;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .colorrow1 p, .colorrow2 p {
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    height: 75px;
+    line-height: 37px;
+    margin: 0 5px;
+  }
+  
+  .oceanbreeze {
+    background-color: #73BAF0;
+    font-weight: bold;
+  }
+  
+  .clearsky {
+    background-color: #266DD1;
+    color: #FFF;
+  }
+  
+  .moonlit {
+    background-color: #1C45EB;
+    color: #FFF;
+  }
+  
+  .caramel {
+    background-color: #C9A342;
+    font-weight: bold;
+  }
+  
+  .lemonlime {
+    background-color: #A7C947;
+    font-weight: bold;
+  }
+  
+  .font {
+    width: 100%;
+  }
+  
+  .fontrow1, .fontrow2 {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .fontrow1 div, .fontrow2 div {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 530px;
+    line-height: 25px;
+  }
+  
+  .fonts h3 {
+    text-decoration: underline;
+  }
+  
+  .vollkorn h3, .vollkorn p {
+    font-family: 'Vollkorn';
+  }
+  
+  .lobster h3, .lobster p {
+    font-family: 'lobster two';
+  }
+  
+  .noto h3, .noto p {
+    font-family: 'noto sans';
+  }
+  
+  .redhat h3, .redhat p {
+    font-family: 'red hat text';
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .header1, .subheaders, .paragraphs, .links {
+    margin: 15px;
+  }
+  
+  .header1 h1 {
+    font-family: 'Vollkorn';
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .subheaders h2 {
+    font-family: 'lobster two';
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .paragraphs p {
+    font-family: 'noto sans';
+    font-size: 18px;
+    font-weight: 700;
+  }
+  
+  .links p {
+    font-family: 'red hat text';
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .styles ul {
+    margin-left: 40px;
+    list-style-type: circle;
+  }
